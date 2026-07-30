@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-akj2mr.indocuan.online/sitemap.xml
